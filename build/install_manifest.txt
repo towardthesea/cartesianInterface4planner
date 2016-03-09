@@ -1,0 +1,1 @@
+/usr/local/share/yarp/config/path.d/ICUBcontrib.ini

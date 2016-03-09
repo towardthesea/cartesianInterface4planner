@@ -1,0 +1,2 @@
+/home/pnguyen/icub-tutorials/src/motorControlAdvanced/build/CMakeFiles/tutorial_cartesian_interface.dir
+/home/pnguyen/icub-tutorials/src/motorControlAdvanced/build/CMakeFiles/tutorial_gaze_interface.dir
